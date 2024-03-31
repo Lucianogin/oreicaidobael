@@ -72794,7 +72794,7 @@ A.ajg.prototype={
 $1(a){this.a.a=a},
 $S:4}
 A.ajh.prototype={
-$1(a){this.a.b=A.aP(A.d(A.aP(A.d(a),null)>5?"0":a),null)},
+$1(a){this.a.b=A.aP(A.d(A.aP(A.d(a),null)>20?"0":a),null)},
 $S:4}
 A.ajj.prototype={
 $0(){var s=0,r=A.G(t.P),q=this,p,o,n,m,l
